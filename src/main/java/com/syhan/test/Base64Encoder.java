@@ -38,7 +38,7 @@ public class Base64Encoder {
 
     public static void main(String[] args) throws Exception {
         //
-        //encode("log_20181005.zip");
-        decode("a-tool.txt");
+        encode("log_20181005.zip");
+        //decode("a-tool.txt");
     }
 }
